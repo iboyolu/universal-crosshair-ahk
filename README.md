@@ -1,1 +1,1 @@
-edit ahk for your app and run
+edit ahk "IfWinActive , ahk_exe <your_app>" for your app and run
